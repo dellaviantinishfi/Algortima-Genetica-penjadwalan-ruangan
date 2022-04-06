@@ -1,0 +1,2 @@
+# Algortima-Genetica-penjadwalan-ruangan
+Sistem Penjadwalan Ruangan Mengguanakan Algortima Genetica. Dalam hal ini tujuan di tuliskanya ini ialah dapat memberikan penjelasan mengenai sebuah rancangan pada perangkat lunak, dalam proses melakukan penilaian terhadap mutu pelayanan pada sistem Algortima Genetica. Penjelasan ini di dalamnya berisi mengenai perangkat lunak sedang berjalan dan yang akan di bangun, dalam penjelasan perangkat lunak nya juga baik berupa gambaran umum maupun penjelasan detail yang secara menyeluruh
